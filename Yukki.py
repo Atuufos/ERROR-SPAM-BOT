@@ -843,8 +843,7 @@ async def help(e):
 
     
         
-text = """
-CONGRATS ERROR SPAMMER STARTED SUCCESSFULLY 🎌🎌"""
+text = "CONGRATS ERROR SPAMMER STARTED SUCCESSFULLY🎌🎌"
 
 
 print(text)
