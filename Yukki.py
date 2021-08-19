@@ -842,7 +842,7 @@ async def help(e):
         
 text = """🅴🆁🆁🅾🆁 🆂🅿🅰🅼🅼🅴🆁"""
 print(text)
-print("")
+print("""""")
 print("SMEX! ERROR Spam Bot Started Sucessfully.")
 if len(sys.argv) not in (1, 3, 4):
     try:
