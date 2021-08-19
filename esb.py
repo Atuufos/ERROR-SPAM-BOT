@@ -840,10 +840,7 @@ async def help(e):
 
     
         
-text = """
-ERROR SPAMMER STARTED"""
-print(text)
-print("")
+
 print("SMEX! ERROR Spam USERBot Started Sucessfully.")
 if len(sys.argv) not in (1, 3, 4):
     try:
