@@ -11,7 +11,7 @@
    <br>
    <br>
 </p>
-<b>ERROR SPAMMER is a telegram Spam Bot that can do unlimited spam.</b>
+<b>ERROR SPAMMER is a telegram Spam UserBot that can do spam with less floodwaits.</b>
 <br>
 <br>
    
